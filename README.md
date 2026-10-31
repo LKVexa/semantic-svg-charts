@@ -135,6 +135,6 @@ signing/attestation, additional chart kinds and gate decisions remain open.
 
 ## License
 
-Copyright 2026 **RUSSELL PHILIP SMITHSON**.
-[Apache License 2.0](LICENSE), with [NOTICE](NOTICE).
+Copyright (C) 2026 **RUSSELL PHILIP SMITHSON**.
+[GNU General Public License, version 3 only (GPL-3.0-only)](LICENSE), with [NOTICE](NOTICE) and [COPYRIGHT](COPYRIGHT).
 No third-party source is vendored; see [THIRD-PARTY-NOTICES](THIRD-PARTY-NOTICES.md).
